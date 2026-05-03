@@ -1,0 +1,9 @@
+.env*
+.vercel
+*.log
+*.zip
+node_modules
+.next
+handbook_extracted.txt
+handbook_headings.json
+rendered_handbook
